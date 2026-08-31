@@ -181,6 +181,16 @@
       "updated_at": 1788150972.5109706
     },
     {
+      "id": "b96d56aa-b4cb-49c9-a881-cde2c25079fd",
+      "tab": "office",
+      "text": "CLAUDE CERTIFICATION",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": false,
+      "updated_at": 1788152796.7884293
+    },
+    {
       "id": "4e9f8973-0d2a-4dad-a402-577939d12396",
       "tab": "office",
       "text": "FINISH UDEMY -URGENT",
@@ -202,11 +212,11 @@
     }
   ],
   "locked": false,
-  "active_tab": "personal",
-  "left": 3773,
-  "top": 91,
-  "width": 429,
-  "height": 694,
+  "active_tab": "office",
+  "left": 1556,
+  "top": 48,
+  "width": 371,
+  "height": 633,
   "pendingPriority": 1,
   "pendingColor": "#E23E3E",
   "pendingBold": false
