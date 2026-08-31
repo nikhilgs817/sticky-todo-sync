@@ -71,16 +71,6 @@
       "updated_at": 1788150717.0275307
     },
     {
-      "id": "fc47c4ae-f158-4d3d-9bf5-e0eb5a3c8c65",
-      "tab": "office",
-      "text": "Send invite for enhancement",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788150717.7278779
-    },
-    {
       "id": "6faea0fe-7cdc-44da-a837-0a7fb224a497",
       "tab": "office",
       "text": "Prepare for call with Rakesh",
@@ -199,6 +189,16 @@
       "color": "#2260E0",
       "bold": false,
       "updated_at": 1788150800.412159
+    },
+    {
+      "id": "fc47c4ae-f158-4d3d-9bf5-e0eb5a3c8c65",
+      "tab": "office",
+      "text": "Send invite for enhancement",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788203322.8647718
     },
     {
       "id": "27e1f260-4943-4c74-a4c2-f4f9a1f1fc39",
