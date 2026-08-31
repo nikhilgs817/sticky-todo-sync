@@ -51,6 +51,16 @@
       "updated_at": 1788150522.9859734
     },
     {
+      "id": "678f7954-b7ea-45bb-acff-d398923c9760",
+      "tab": "office",
+      "text": "Setup call with Rakesh-declegen",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788150535.7332692
+    },
+    {
       "id": "4e9f8973-0d2a-4dad-a402-577939d12396",
       "tab": "office",
       "text": "FINISH UDEMY -URGENT",
@@ -69,16 +79,6 @@
       "color": "#E23E3E",
       "bold": true,
       "updated_at": 1788150526.7511537
-    },
-    {
-      "id": "678f7954-b7ea-45bb-acff-d398923c9760",
-      "tab": "office",
-      "text": "Setup call with Rakesh-declegen",
-      "done": false,
-      "priority": 4,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788150533.5920966
     }
   ],
   "locked": false,
