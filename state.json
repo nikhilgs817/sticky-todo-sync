@@ -147,8 +147,8 @@
       "done": false,
       "priority": 1,
       "color": "#E23E3E",
-      "bold": false,
-      "updated_at": 1788150892.3248203
+      "bold": true,
+      "updated_at": 1788150975.5894456
     },
     {
       "id": "c4e2e2c5-b10c-484b-aac7-701aee1b12dd",
@@ -177,8 +177,8 @@
       "done": false,
       "priority": 1,
       "color": "#E23E3E",
-      "bold": false,
-      "updated_at": 1788150971.7703617
+      "bold": true,
+      "updated_at": 1788150972.5109706
     },
     {
       "id": "4e9f8973-0d2a-4dad-a402-577939d12396",
