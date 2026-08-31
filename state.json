@@ -61,6 +61,16 @@
       "updated_at": 1788150535.7332692
     },
     {
+      "id": "27e1f260-4943-4c74-a4c2-f4f9a1f1fc39",
+      "tab": "office",
+      "text": "Follow up for activity tracker",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788150540.8515456
+    },
+    {
       "id": "4e9f8973-0d2a-4dad-a402-577939d12396",
       "tab": "office",
       "text": "FINISH UDEMY -URGENT",
@@ -69,16 +79,6 @@
       "color": "#3F3A16",
       "bold": false,
       "updated_at": 1788150333.1867235
-    },
-    {
-      "id": "27e1f260-4943-4c74-a4c2-f4f9a1f1fc39",
-      "tab": "office",
-      "text": "Follow up for activity tracker",
-      "done": false,
-      "priority": 4,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788150538.3442113
     }
   ],
   "locked": false,
