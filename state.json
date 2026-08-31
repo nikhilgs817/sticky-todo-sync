@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "id": "1a13b9d4-3694-4d78-9a0a-ee7fed87ffc7",
-      "tab": "office",
-      "text": "MIP COMPLETE SETUP",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788148532.0939832
-    },
-    {
       "id": "c2f70eaa-a0ad-4c01-baf6-a1668d461a4e",
       "tab": "office",
       "text": "book appointment and get blood test done",
