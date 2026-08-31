@@ -29,6 +29,16 @@
       "color": "#3F3A16",
       "bold": false,
       "updated_at": 1788148532.094032
+    },
+    {
+      "id": "678f7954-b7ea-45bb-acff-d398923c9760",
+      "tab": "office",
+      "text": "Setup call with Rakesh-declegen",
+      "done": false,
+      "priority": 3,
+      "color": "#3F3A16",
+      "bold": false,
+      "updated_at": 1788150278.2807791
     }
   ],
   "locked": false,
