@@ -16,19 +16,9 @@
       "text": "book appointment and get blood test done",
       "done": false,
       "priority": 1,
-      "color": "#E23E3E",
+      "color": "#2260E0",
       "bold": false,
-      "updated_at": 1788149565.7784262
-    },
-    {
-      "id": "c94576c9-18c2-41c4-82d1-3c47966c8da4",
-      "tab": "office",
-      "text": "SEND MAIL TO PAUL",
-      "done": false,
-      "priority": 2,
-      "color": "#3F3A16",
-      "bold": false,
-      "updated_at": 1788148532.0940247
+      "updated_at": 1788149566.5028872
     },
     {
       "id": "4e9f8973-0d2a-4dad-a402-577939d12396",
