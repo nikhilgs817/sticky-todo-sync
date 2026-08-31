@@ -77,8 +77,8 @@
       "done": false,
       "priority": 3,
       "color": "#E23E3E",
-      "bold": false,
-      "updated_at": 1788150350.482928
+      "bold": true,
+      "updated_at": 1788150526.7511537
     }
   ],
   "locked": false,
