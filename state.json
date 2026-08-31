@@ -31,16 +31,6 @@
       "updated_at": 1788150535.7332692
     },
     {
-      "id": "27e1f260-4943-4c74-a4c2-f4f9a1f1fc39",
-      "tab": "office",
-      "text": "Follow up for activity tracker",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788150540.8515456
-    },
-    {
       "id": "1916511f-45f8-4426-ad16-0083b0e0a286",
       "tab": "office",
       "text": "Review PAUL email-last2 wks",
@@ -211,6 +201,16 @@
       "updated_at": 1788150800.412159
     },
     {
+      "id": "27e1f260-4943-4c74-a4c2-f4f9a1f1fc39",
+      "tab": "office",
+      "text": "Follow up for activity tracker",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788194471.8165102
+    },
+    {
       "id": "2723a6b0-292e-4ff0-9beb-558764794873",
       "tab": "personal",
       "text": "Baby doctor",
@@ -232,7 +232,7 @@
     }
   ],
   "locked": false,
-  "active_tab": "personal",
+  "active_tab": "office",
   "left": 1556,
   "top": 48,
   "width": 371,
