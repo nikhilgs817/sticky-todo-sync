@@ -151,6 +151,16 @@
       "updated_at": 1788150852.5867474
     },
     {
+      "id": "783db0f2-509b-4d02-889a-2f88529be9fc",
+      "tab": "personal",
+      "text": "Update address- bofa,costco.amaex,fidility,geico,schwab,wells,citi",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": false,
+      "updated_at": 1788150892.3248203
+    },
+    {
       "id": "4e9f8973-0d2a-4dad-a402-577939d12396",
       "tab": "office",
       "text": "FINISH UDEMY -URGENT",
