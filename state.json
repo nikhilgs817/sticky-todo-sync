@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "id": "2723a6b0-292e-4ff0-9beb-558764794873",
-      "tab": "personal",
-      "text": "Baby doctor",
-      "done": false,
-      "priority": 1,
-      "color": "#3F3A16",
-      "bold": false,
-      "updated_at": 1788150445.3032334
-    },
-    {
       "id": "42bdf54f-c4d6-4fdc-aecf-a26cdba0588c",
       "tab": "personal",
       "text": "Add all cards to apple wallet",
@@ -199,6 +189,16 @@
       "color": "#2260E0",
       "bold": false,
       "updated_at": 1788150800.412159
+    },
+    {
+      "id": "2723a6b0-292e-4ff0-9beb-558764794873",
+      "tab": "personal",
+      "text": "Baby doctor",
+      "done": true,
+      "priority": 1,
+      "color": "#3F3A16",
+      "bold": false,
+      "updated_at": 1788189944.295129
     },
     {
       "id": "c250147a-13fb-4bac-94de-b73c1a24a9c2",
