@@ -71,6 +71,16 @@
       "updated_at": 1788150540.8515456
     },
     {
+      "id": "1916511f-45f8-4426-ad16-0083b0e0a286",
+      "tab": "office",
+      "text": "Review PAUL email-last2 wks",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": false,
+      "updated_at": 1788150595.6325285
+    },
+    {
       "id": "4e9f8973-0d2a-4dad-a402-577939d12396",
       "tab": "office",
       "text": "FINISH UDEMY -URGENT",
@@ -88,6 +98,6 @@
   "width": 320,
   "height": 440,
   "pendingPriority": 1,
-  "pendingColor": "#3F3A16",
+  "pendingColor": "#E23E3E",
   "pendingBold": false
 }
