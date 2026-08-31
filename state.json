@@ -141,6 +141,16 @@
       "updated_at": 1788150797.426948
     },
     {
+      "id": "12718123-b788-4a03-9bf1-f1f0e4e69ed3",
+      "tab": "personal",
+      "text": "USPS address forwarding",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": false,
+      "updated_at": 1788150852.5867474
+    },
+    {
       "id": "4e9f8973-0d2a-4dad-a402-577939d12396",
       "tab": "office",
       "text": "FINISH UDEMY -URGENT",
@@ -162,7 +172,7 @@
     }
   ],
   "locked": false,
-  "active_tab": "office",
+  "active_tab": "personal",
   "left": 3773,
   "top": 91,
   "width": 429,
