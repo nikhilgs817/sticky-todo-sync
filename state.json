@@ -181,6 +181,16 @@
       "updated_at": 1788189972.2090733
     },
     {
+      "id": "e7b4e111-6232-4889-b5b7-696466a9040a",
+      "tab": "personal",
+      "text": "PAY ALASKA BILL",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": false,
+      "updated_at": 1788190008.532483
+    },
+    {
       "id": "4e9f8973-0d2a-4dad-a402-577939d12396",
       "tab": "office",
       "text": "FINISH UDEMY -URGENT",
