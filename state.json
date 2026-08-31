@@ -171,6 +171,16 @@
       "updated_at": 1788150956.5769413
     },
     {
+      "id": "30026770-2323-445e-8306-c8feb956b875",
+      "tab": "personal",
+      "text": "My blood test and dentist",
+      "done": false,
+      "priority": 1,
+      "color": "#3F3A16",
+      "bold": false,
+      "updated_at": 1788150970.219003
+    },
+    {
       "id": "4e9f8973-0d2a-4dad-a402-577939d12396",
       "tab": "office",
       "text": "FINISH UDEMY -URGENT",
@@ -189,16 +199,6 @@
       "color": "#2260E0",
       "bold": false,
       "updated_at": 1788150800.412159
-    },
-    {
-      "id": "30026770-2323-445e-8306-c8feb956b875",
-      "tab": "personal",
-      "text": "My blood test and dentist",
-      "done": true,
-      "priority": 1,
-      "color": "#3F3A16",
-      "bold": false,
-      "updated_at": 1788150964.8139749
     }
   ],
   "locked": false,
