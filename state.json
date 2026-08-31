@@ -31,6 +31,16 @@
       "updated_at": 1788150445.3032334
     },
     {
+      "id": "42bdf54f-c4d6-4fdc-aecf-a26cdba0588c",
+      "tab": "personal",
+      "text": "Add all cards to apple wallet",
+      "done": false,
+      "priority": 1,
+      "color": "#3F3A16",
+      "bold": false,
+      "updated_at": 1788150466.2758155
+    },
+    {
       "id": "4e9f8973-0d2a-4dad-a402-577939d12396",
       "tab": "office",
       "text": "FINISH UDEMY -URGENT",
