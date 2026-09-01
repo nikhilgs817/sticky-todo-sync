@@ -41,16 +41,6 @@
       "updated_at": 1788150654.740589
     },
     {
-      "id": "4d68f4ce-7c02-454e-af9d-0859f03e6141",
-      "tab": "office",
-      "text": "Share Jenkins access form",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788150717.0275307
-    },
-    {
       "id": "6faea0fe-7cdc-44da-a837-0a7fb224a497",
       "tab": "office",
       "text": "Prepare for call with Rakesh",
@@ -169,6 +159,16 @@
       "color": "#2260E0",
       "bold": false,
       "updated_at": 1788150800.412159
+    },
+    {
+      "id": "4d68f4ce-7c02-454e-af9d-0859f03e6141",
+      "tab": "office",
+      "text": "Share Jenkins access form",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788240695.5871081
     },
     {
       "id": "678f7954-b7ea-45bb-acff-d398923c9760",
