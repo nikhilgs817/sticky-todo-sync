@@ -11,16 +11,6 @@
       "updated_at": 1788150466.2758155
     },
     {
-      "id": "678f7954-b7ea-45bb-acff-d398923c9760",
-      "tab": "office",
-      "text": "Setup call with Rakesh-declegen",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788150535.7332692
-    },
-    {
       "id": "1916511f-45f8-4426-ad16-0083b0e0a286",
       "tab": "office",
       "text": "Review PAUL email-last2 wks",
@@ -179,6 +169,16 @@
       "color": "#2260E0",
       "bold": false,
       "updated_at": 1788150800.412159
+    },
+    {
+      "id": "678f7954-b7ea-45bb-acff-d398923c9760",
+      "tab": "office",
+      "text": "Setup call with Rakesh-declegen",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788240688.064819
     },
     {
       "id": "0b38106b-a6a1-4b7a-b220-174c585f1897",
