@@ -11,16 +11,6 @@
       "updated_at": 1788150466.2758155
     },
     {
-      "id": "0b38106b-a6a1-4b7a-b220-174c585f1897",
-      "tab": "office",
-      "text": "Follow up for PPT",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788150522.9859734
-    },
-    {
       "id": "678f7954-b7ea-45bb-acff-d398923c9760",
       "tab": "office",
       "text": "Setup call with Rakesh-declegen",
@@ -189,6 +179,16 @@
       "color": "#2260E0",
       "bold": false,
       "updated_at": 1788150800.412159
+    },
+    {
+      "id": "0b38106b-a6a1-4b7a-b220-174c585f1897",
+      "tab": "office",
+      "text": "Follow up for PPT",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788240682.378026
     },
     {
       "id": "fc47c4ae-f158-4d3d-9bf5-e0eb5a3c8c65",
