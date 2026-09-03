@@ -41,16 +41,6 @@
       "updated_at": 1788150654.740589
     },
     {
-      "id": "6faea0fe-7cdc-44da-a837-0a7fb224a497",
-      "tab": "office",
-      "text": "Prepare for call with Rakesh",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788150718.3153877
-    },
-    {
       "id": "53f080eb-c2e9-42d9-a339-a59d6dc7e055",
       "tab": "office",
       "text": "Carolyn INCIDENT",
@@ -159,6 +149,16 @@
       "color": "#2260E0",
       "bold": false,
       "updated_at": 1788150800.412159
+    },
+    {
+      "id": "6faea0fe-7cdc-44da-a837-0a7fb224a497",
+      "tab": "office",
+      "text": "Prepare for call with Rakesh",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788443279.2163925
     },
     {
       "id": "4d68f4ce-7c02-454e-af9d-0859f03e6141",
