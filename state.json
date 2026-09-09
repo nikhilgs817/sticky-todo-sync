@@ -341,16 +341,6 @@
       "updated_at": 1788720262.842954
     },
     {
-      "id": "d9ebb169-feb8-4c38-b882-4a7c2e3629d1",
-      "tab": "office",
-      "text": "Setup call with Rakesh-declegen",
-      "done": true,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788720262.8429565
-    },
-    {
       "id": "29d34f07-68fb-4376-ab65-a54e417c5eff",
       "tab": "office",
       "text": "Share Jenkins access form",
