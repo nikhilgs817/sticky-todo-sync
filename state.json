@@ -281,16 +281,6 @@
       "updated_at": 1788720262.8429434
     },
     {
-      "id": "4e9f8973-0d2a-4dad-a402-577939d12396",
-      "tab": "office",
-      "text": "FINISH UDEMY -URGENT",
-      "done": false,
-      "priority": 2,
-      "color": "#2260E0",
-      "bold": false,
-      "updated_at": 1788150806.5657597
-    },
-    {
       "id": "6a6a94d5-8f11-4f58-8154-ffca0d30f974",
       "tab": "office",
       "text": "ANSIBLE demo-oct1",
