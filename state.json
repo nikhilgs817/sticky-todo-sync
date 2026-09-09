@@ -341,26 +341,6 @@
       "updated_at": 1788720262.842954
     },
     {
-      "id": "20936b07-8370-47b8-96f2-3995d12afdc4",
-      "tab": "office",
-      "text": "Send invite for enhancement",
-      "done": true,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788720262.8429692
-    },
-    {
-      "id": "6faea0fe-7cdc-44da-a837-0a7fb224a497",
-      "tab": "office",
-      "text": "Prepare for call with Rakesh",
-      "done": true,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788443279.2163925
-    },
-    {
       "id": "4d68f4ce-7c02-454e-af9d-0859f03e6141",
       "tab": "office",
       "text": "Share Jenkins access form",
