@@ -311,16 +311,6 @@
       "updated_at": 1788150800.412159
     },
     {
-      "id": "7952bdc2-8062-4631-b0ef-34d243d4bc67",
-      "tab": "office",
-      "text": "My blood test and dentist",
-      "done": true,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788926773.776762
-    },
-    {
       "id": "2723a6b0-292e-4ff0-9beb-558764794873",
       "tab": "personal",
       "text": "Baby doctor",
