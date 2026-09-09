@@ -1,6 +1,136 @@
 {
   "items": [
     {
+      "id": "e285efee-3387-40e7-ba3e-2de47383ab01",
+      "tab": "office",
+      "text": "Add all cards to apple wallet",
+      "done": false,
+      "priority": 1,
+      "color": "#3F3A16",
+      "bold": false,
+      "updated_at": 1788720262.8428729
+    },
+    {
+      "id": "740140ba-9655-403d-829b-4f495ebd377f",
+      "tab": "office",
+      "text": "Review PAUL email-last2 wks",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.842899
+    },
+    {
+      "id": "d72f199b-2bb2-470f-9472-cce504b96fde",
+      "tab": "office",
+      "text": "Joyce-get added to deployment request",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.842905
+    },
+    {
+      "id": "ae555da6-6378-4902-8fc4-b9ba13a55d82",
+      "tab": "office",
+      "text": "Create service now dashboard request for deployment",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.8429084
+    },
+    {
+      "id": "14ddf696-8054-4676-af3f-c1ff0667df02",
+      "tab": "office",
+      "text": "Carolyn INCIDENT",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.8429122
+    },
+    {
+      "id": "5743c804-6343-4183-b801-a78261941605",
+      "tab": "office",
+      "text": "USPS address forwarding",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.842915
+    },
+    {
+      "id": "7aeebcb7-a6b8-4ca2-99b3-bdf9dd99ee06",
+      "tab": "office",
+      "text": "Update address- bofa,costco.amaex,fidility,geico,schwab,wells,citi",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.842918
+    },
+    {
+      "id": "961293c0-a01e-435c-9040-5372fa4c5708",
+      "tab": "office",
+      "text": "post rent ad",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.8429205
+    },
+    {
+      "id": "98264d83-d286-4f70-bcdc-84257ee37dfc",
+      "tab": "office",
+      "text": "ENDOCRONLOGY APPT",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.842923
+    },
+    {
+      "id": "788ae9b5-4760-43c4-b6c8-7a0faf0ec9e3",
+      "tab": "office",
+      "text": "CLAUDE CERTIFICATION",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.8429286
+    },
+    {
+      "id": "823fb289-1522-432b-8d29-4290ba7b5087",
+      "tab": "office",
+      "text": "PAY EZPASS BILLS",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.8429315
+    },
+    {
+      "id": "b73e21e1-c026-40e4-aaea-7274b91154b0",
+      "tab": "office",
+      "text": "PAY ALASKA BILL",
+      "done": false,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.8429344
+    },
+    {
+      "id": "60fbaf42-883d-4977-b2f5-3982ac367dc8",
+      "tab": "office",
+      "text": "Replace DECLGEN doc with all activity doc",
+      "done": false,
+      "priority": 1,
+      "color": "#22A34A",
+      "bold": true,
+      "updated_at": 1788720262.8429365
+    },
+    {
       "id": "42bdf54f-c4d6-4fdc-aecf-a26cdba0588c",
       "tab": "personal",
       "text": "Add all cards to apple wallet",
@@ -141,6 +271,16 @@
       "updated_at": 1788443346.1201293
     },
     {
+      "id": "ccf18ed3-abbc-4af2-9531-088bd59be3c2",
+      "tab": "office",
+      "text": "FINISH UDEMY -URGENT",
+      "done": false,
+      "priority": 2,
+      "color": "#2260E0",
+      "bold": false,
+      "updated_at": 1788720262.8429434
+    },
+    {
       "id": "4e9f8973-0d2a-4dad-a402-577939d12396",
       "tab": "office",
       "text": "FINISH UDEMY -URGENT",
@@ -151,6 +291,16 @@
       "updated_at": 1788150806.5657597
     },
     {
+      "id": "6a6a94d5-8f11-4f58-8154-ffca0d30f974",
+      "tab": "office",
+      "text": "ANSIBLE demo-oct1",
+      "done": false,
+      "priority": 4,
+      "color": "#2260E0",
+      "bold": false,
+      "updated_at": 1788720262.8429484
+    },
+    {
       "id": "581f843b-c1b5-4e21-b3d4-81431d669e98",
       "tab": "office",
       "text": "ANSIBLE demo-oct1",
@@ -159,6 +309,96 @@
       "color": "#2260E0",
       "bold": false,
       "updated_at": 1788150800.412159
+    },
+    {
+      "id": "7952bdc2-8062-4631-b0ef-34d243d4bc67",
+      "tab": "office",
+      "text": "My blood test and dentist",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788926773.776762
+    },
+    {
+      "id": "1b5768b0-3db4-4163-bc97-5424d824e5a0",
+      "tab": "office",
+      "text": "Prepare for call with Rakesh",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.8429508
+    },
+    {
+      "id": "b0a9e985-0279-4564-bcc9-ccc31409cdae",
+      "tab": "office",
+      "text": "Follow up for PPT",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.842954
+    },
+    {
+      "id": "d9ebb169-feb8-4c38-b882-4a7c2e3629d1",
+      "tab": "office",
+      "text": "Setup call with Rakesh-declegen",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.8429565
+    },
+    {
+      "id": "29d34f07-68fb-4376-ab65-a54e417c5eff",
+      "tab": "office",
+      "text": "Share Jenkins access form",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.8429592
+    },
+    {
+      "id": "4e5ebb23-380b-41d8-b5d0-08341a50dba7",
+      "tab": "office",
+      "text": "Niharika Blood test",
+      "done": true,
+      "priority": 1,
+      "color": "#3F3A16",
+      "bold": false,
+      "updated_at": 1788720262.8429615
+    },
+    {
+      "id": "995ca03d-c0d1-43c1-ae1f-4cd22678b16c",
+      "tab": "office",
+      "text": "Baby doctor",
+      "done": true,
+      "priority": 1,
+      "color": "#3F3A16",
+      "bold": false,
+      "updated_at": 1788720262.842964
+    },
+    {
+      "id": "a8ac846c-2408-4dbc-b69c-00e3fc4f59a5",
+      "tab": "office",
+      "text": "Follow up for activity tracker",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.8429666
+    },
+    {
+      "id": "20936b07-8370-47b8-96f2-3995d12afdc4",
+      "tab": "office",
+      "text": "Send invite for enhancement",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788720262.8429692
     },
     {
       "id": "6faea0fe-7cdc-44da-a837-0a7fb224a497",
@@ -243,10 +483,10 @@
   ],
   "locked": false,
   "active_tab": "office",
-  "left": 1556,
-  "top": 48,
-  "width": 371,
-  "height": 633,
+  "left": 1997,
+  "top": -13,
+  "width": 340,
+  "height": 1102,
   "pendingPriority": 1,
   "pendingColor": "#E23E3E",
   "pendingBold": false
