@@ -221,16 +221,6 @@
       "updated_at": 1788150956.5769413
     },
     {
-      "id": "30026770-2323-445e-8306-c8feb956b875",
-      "tab": "personal",
-      "text": "My blood test and dentist",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788150972.5109706
-    },
-    {
       "id": "b96d56aa-b4cb-49c9-a881-cde2c25079fd",
       "tab": "office",
       "text": "CLAUDE CERTIFICATION",
@@ -269,6 +259,16 @@
       "color": "#22A34A",
       "bold": true,
       "updated_at": 1788443346.1201293
+    },
+    {
+      "id": "30026770-2323-445e-8306-c8feb956b875",
+      "tab": "personal",
+      "text": "My blood test and dentist",
+      "done": false,
+      "priority": 2,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1789017676.9943423
     },
     {
       "id": "ccf18ed3-abbc-4af2-9531-088bd59be3c2",
@@ -312,7 +312,7 @@
     }
   ],
   "locked": false,
-  "active_tab": "office",
+  "active_tab": "personal",
   "left": 1997,
   "top": -13,
   "width": 340,
