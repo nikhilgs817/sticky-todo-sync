@@ -251,16 +251,6 @@
       "updated_at": 1788190011.804904
     },
     {
-      "id": "d35af920-231d-4880-8d14-1f7d9b324e83",
-      "tab": "office",
-      "text": "Replace DECLGEN doc with all activity doc",
-      "done": false,
-      "priority": 1,
-      "color": "#22A34A",
-      "bold": true,
-      "updated_at": 1788443346.1201293
-    },
-    {
       "id": "ccf18ed3-abbc-4af2-9531-088bd59be3c2",
       "tab": "office",
       "text": "FINISH UDEMY -URGENT",
@@ -281,28 +271,18 @@
       "updated_at": 1788720262.8429484
     },
     {
-      "id": "c250147a-13fb-4bac-94de-b73c1a24a9c2",
-      "tab": "personal",
-      "text": "Niharika Blood test",
+      "id": "d35af920-231d-4880-8d14-1f7d9b324e83",
+      "tab": "office",
+      "text": "Replace DECLGEN doc with all activity doc",
       "done": true,
       "priority": 1,
-      "color": "#3F3A16",
-      "bold": false,
-      "updated_at": 1788189928.4742663
-    },
-    {
-      "id": "30026770-2323-445e-8306-c8feb956b875",
-      "tab": "personal",
-      "text": "My blood test and dentist",
-      "done": true,
-      "priority": 2,
-      "color": "#E23E3E",
+      "color": "#22A34A",
       "bold": true,
-      "updated_at": 1789017680.8714948
+      "updated_at": 1789017734.908246
     }
   ],
   "locked": false,
-  "active_tab": "personal",
+  "active_tab": "office",
   "left": 1997,
   "top": -13,
   "width": 340,
