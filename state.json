@@ -251,16 +251,6 @@
       "updated_at": 1788150800.412159
     },
     {
-      "id": "6a6a94d5-8f11-4f58-8154-ffca0d30f974",
-      "tab": "office",
-      "text": "ANSIBLE demo-oct1",
-      "done": false,
-      "priority": 4,
-      "color": "#2260E0",
-      "bold": false,
-      "updated_at": 1788720262.8429484
-    },
-    {
       "id": "d35af920-231d-4880-8d14-1f7d9b324e83",
       "tab": "office",
       "text": "Replace DECLGEN doc with all activity doc",
@@ -365,8 +355,8 @@
   "active_tab": "office",
   "left": 1448,
   "top": 42,
-  "width": 428,
-  "height": 689,
+  "width": 434,
+  "height": 982,
   "pendingPriority": 1,
   "pendingColor": "#E23E3E",
   "pendingBold": false
