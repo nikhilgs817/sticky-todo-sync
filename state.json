@@ -101,16 +101,6 @@
       "updated_at": 1788150972.5109706
     },
     {
-      "id": "b96d56aa-b4cb-49c9-a881-cde2c25079fd",
-      "tab": "office",
-      "text": "CLAUDE CERTIFICATION",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788152800.2989793
-    },
-    {
       "id": "23c2a22f-3a0e-41a1-818b-62f0873361fc",
       "tab": "personal",
       "text": "PAY EZPASS BILLS",
