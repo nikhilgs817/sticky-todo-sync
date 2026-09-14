@@ -121,16 +121,6 @@
       "updated_at": 1788720262.842905
     },
     {
-      "id": "ae555da6-6378-4902-8fc4-b9ba13a55d82",
-      "tab": "office",
-      "text": "Create service now dashboard request for deployment",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788720262.8429084
-    },
-    {
       "id": "5743c804-6343-4183-b801-a78261941605",
       "tab": "office",
       "text": "USPS address forwarding",
