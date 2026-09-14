@@ -101,16 +101,6 @@
       "updated_at": 1788150972.5109706
     },
     {
-      "id": "23c2a22f-3a0e-41a1-818b-62f0873361fc",
-      "tab": "personal",
-      "text": "PAY EZPASS BILLS",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788189972.2090733
-    },
-    {
       "id": "e7b4e111-6232-4889-b5b7-696466a9040a",
       "tab": "personal",
       "text": "PAY ALASKA BILL",
@@ -332,7 +322,7 @@
     }
   ],
   "locked": false,
-  "active_tab": "office",
+  "active_tab": "all",
   "left": 1448,
   "top": 42,
   "width": 434,
