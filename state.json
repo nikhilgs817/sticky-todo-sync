@@ -91,26 +91,6 @@
       "updated_at": 1788150956.5769413
     },
     {
-      "id": "30026770-2323-445e-8306-c8feb956b875",
-      "tab": "personal",
-      "text": "My blood test and dentist",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788150972.5109706
-    },
-    {
-      "id": "e7b4e111-6232-4889-b5b7-696466a9040a",
-      "tab": "personal",
-      "text": "PAY ALASKA BILL",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788190011.804904
-    },
-    {
       "id": "e285efee-3387-40e7-ba3e-2de47383ab01",
       "tab": "office",
       "text": "Add all cards to apple wallet",
