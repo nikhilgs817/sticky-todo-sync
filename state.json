@@ -61,16 +61,6 @@
       "updated_at": 1788150975.5894456
     },
     {
-      "id": "e285efee-3387-40e7-ba3e-2de47383ab01",
-      "tab": "office",
-      "text": "Add all cards to apple wallet",
-      "done": false,
-      "priority": 1,
-      "color": "#3F3A16",
-      "bold": false,
-      "updated_at": 1788720262.8428729
-    },
-    {
       "id": "d72f199b-2bb2-470f-9472-cce504b96fde",
       "tab": "office",
       "text": "Joyce-get added to deployment request",
