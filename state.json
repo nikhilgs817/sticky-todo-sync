@@ -141,26 +141,6 @@
       "updated_at": 1788150806.5657597
     },
     {
-      "id": "678f7954-b7ea-45bb-acff-d398923c9760",
-      "tab": "office",
-      "text": "Setup call with Rakesh-declegen",
-      "done": true,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788240688.064819
-    },
-    {
-      "id": "0b38106b-a6a1-4b7a-b220-174c585f1897",
-      "tab": "office",
-      "text": "Follow up for PPT",
-      "done": true,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788240682.378026
-    },
-    {
       "id": "fc47c4ae-f158-4d3d-9bf5-e0eb5a3c8c65",
       "tab": "office",
       "text": "Send invite for enhancement",
@@ -209,6 +189,46 @@
       "color": "#22A34A",
       "bold": true,
       "updated_at": 1789017736.7551255
+    },
+    {
+      "id": "98264d83-d286-4f70-bcdc-84257ee37dfc",
+      "tab": "office",
+      "text": "ENDOCRONLOGY APPT",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1791180450.3071697
+    },
+    {
+      "id": "d35af920-231d-4880-8d14-1f7d9b324e83",
+      "tab": "office",
+      "text": "Replace DECLGEN doc with all activity doc",
+      "done": true,
+      "priority": 1,
+      "color": "#A233D6",
+      "bold": true,
+      "updated_at": 1789396057.8149211
+    },
+    {
+      "id": "6faea0fe-7cdc-44da-a837-0a7fb224a497",
+      "tab": "office",
+      "text": "Prepare for call with Rakesh",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788443279.2163925
+    },
+    {
+      "id": "4d68f4ce-7c02-454e-af9d-0859f03e6141",
+      "tab": "office",
+      "text": "Share Jenkins access form",
+      "done": true,
+      "priority": 1,
+      "color": "#E23E3E",
+      "bold": true,
+      "updated_at": 1788240695.5871081
     },
     {
       "id": "581f843b-c1b5-4e21-b3d4-81431d669e98",
