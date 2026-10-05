@@ -161,36 +161,6 @@
       "updated_at": 1788189928.4742663
     },
     {
-      "id": "98264d83-d286-4f70-bcdc-84257ee37dfc",
-      "tab": "office",
-      "text": "ENDOCRONLOGY APPT",
-      "done": true,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1791180450.3071697
-    },
-    {
-      "id": "d35af920-231d-4880-8d14-1f7d9b324e83",
-      "tab": "office",
-      "text": "Replace DECLGEN doc with all activity doc",
-      "done": true,
-      "priority": 1,
-      "color": "#A233D6",
-      "bold": true,
-      "updated_at": 1789396057.8149211
-    },
-    {
-      "id": "6faea0fe-7cdc-44da-a837-0a7fb224a497",
-      "tab": "office",
-      "text": "Prepare for call with Rakesh",
-      "done": true,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788443279.2163925
-    },
-    {
       "id": "4d68f4ce-7c02-454e-af9d-0859f03e6141",
       "tab": "office",
       "text": "Share Jenkins access form",
