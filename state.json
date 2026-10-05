@@ -159,26 +159,6 @@
       "color": "#3F3A16",
       "bold": false,
       "updated_at": 1788189928.4742663
-    },
-    {
-      "id": "60fbaf42-883d-4977-b2f5-3982ac367dc8",
-      "tab": "office",
-      "text": "Replace DECLGEN doc with all activity doc",
-      "done": true,
-      "priority": 1,
-      "color": "#22A34A",
-      "bold": true,
-      "updated_at": 1789017736.7551255
-    },
-    {
-      "id": "581f843b-c1b5-4e21-b3d4-81431d669e98",
-      "tab": "office",
-      "text": "ANSIBLE demo-oct1",
-      "done": true,
-      "priority": 4,
-      "color": "#2260E0",
-      "bold": false,
-      "updated_at": 1791180442.6424913
     }
   ],
   "locked": false,
