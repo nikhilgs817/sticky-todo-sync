@@ -81,16 +81,6 @@
       "updated_at": 1788720262.842905
     },
     {
-      "id": "7aeebcb7-a6b8-4ca2-99b3-bdf9dd99ee06",
-      "tab": "office",
-      "text": "Update address- bofa,costco.amaex,fidility,geico,schwab,wells,citi",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788720262.842918
-    },
-    {
       "id": "788ae9b5-4760-43c4-b6c8-7a0faf0ec9e3",
       "tab": "office",
       "text": "CLAUDE CERTIFICATION",
@@ -109,30 +99,10 @@
       "color": "#2260E0",
       "bold": false,
       "updated_at": 1788150806.5657597
-    },
-    {
-      "id": "c4e2e2c5-b10c-484b-aac7-701aee1b12dd",
-      "tab": "personal",
-      "text": "post rent ad",
-      "done": true,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1791180482.603623
-    },
-    {
-      "id": "66138e4d-6e87-4172-959b-bfd4ae92ee44",
-      "tab": "personal",
-      "text": "ENDOCRONLOGY APPT",
-      "done": true,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1791180480.4983463
     }
   ],
   "locked": false,
-  "active_tab": "personal",
+  "active_tab": "office",
   "left": 1448,
   "top": 42,
   "width": 434,
