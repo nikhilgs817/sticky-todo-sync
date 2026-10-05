@@ -51,16 +51,6 @@
       "updated_at": 1788150797.426948
     },
     {
-      "id": "12718123-b788-4a03-9bf1-f1f0e4e69ed3",
-      "tab": "personal",
-      "text": "USPS address forwarding",
-      "done": false,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788150967.692993
-    },
-    {
       "id": "783db0f2-509b-4d02-889a-2f88529be9fc",
       "tab": "personal",
       "text": "Update address- bofa,costco.amaex,fidility,geico,schwab,wells,citi",
