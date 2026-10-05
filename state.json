@@ -161,36 +161,6 @@
       "updated_at": 1788189928.4742663
     },
     {
-      "id": "4d68f4ce-7c02-454e-af9d-0859f03e6141",
-      "tab": "office",
-      "text": "Share Jenkins access form",
-      "done": true,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788240695.5871081
-    },
-    {
-      "id": "fc47c4ae-f158-4d3d-9bf5-e0eb5a3c8c65",
-      "tab": "office",
-      "text": "Send invite for enhancement",
-      "done": true,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788203322.8647718
-    },
-    {
-      "id": "27e1f260-4943-4c74-a4c2-f4f9a1f1fc39",
-      "tab": "office",
-      "text": "Follow up for activity tracker",
-      "done": true,
-      "priority": 1,
-      "color": "#E23E3E",
-      "bold": true,
-      "updated_at": 1788194471.8165102
-    },
-    {
       "id": "60fbaf42-883d-4977-b2f5-3982ac367dc8",
       "tab": "office",
       "text": "Replace DECLGEN doc with all activity doc",
